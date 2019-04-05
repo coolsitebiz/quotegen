@@ -2,13 +2,33 @@
   "quotes": [
   {
     "id":"1",
-    "quote":"test quote 1",
-    "author":"test author 1"
+    "quote":"how do i get a new quote",
+    "author":"Swankest Megatron"
   },
   {
     "id":"2",
-    "quote":"test quote 2",
-    "author":"test author 2"
+    "quote":"I never watched chuck",
+    "author":"Swankest Megatron"
+  },
+  {
+    "id":"3",
+    "quote":"i have a grade a fancy body",
+    "author":"Swankest Megatron"
+  },
+  {
+    "id":"4",
+    "quote":"you think my body is fancy",
+    "author":"Swankest Megatron"
+  },
+  {
+    "id":"5",
+    "quote":"i have never talked about things, stuff or whatever",
+    "author":"Swankest Megatron"
+  },
+  {
+    "id":"6",
+    "quote":"put a bunch of sleeping pills in her food",
+    "author":"Swankest Megatron"
   }
   ]
 }
