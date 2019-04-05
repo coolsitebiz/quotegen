@@ -1,10 +1,14 @@
 {
-  "quotes":
-  [
+  "quotes": [
   {
     "id":"1",
-    "quote":"test quote",
-    "author":"test author"
+    "quote":"test quote 1",
+    "author":"test author 1"
+  },
+  {
+    "id":"2",
+    "quote":"test quote 2",
+    "author":"test author 2"
   }
   ]
 }
